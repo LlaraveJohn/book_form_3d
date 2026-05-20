@@ -1,2 +1,2 @@
 # book_form_3d
-Development of the book_form_3d interactive CV template, featuring a 3D book interface with page-flip effects, dynamic section navigation, and animated transitions to display personal information, experience, education, and user skills.
+Development of the book_form_3d interactive CV template, implemented as a 3D book-style interface with page-flipping effects. The component enables dynamic navigation between resume sections through animations and interactive transitions, presenting personal information, work experience, education, skills, and other user data in an immersive and responsive experience.
